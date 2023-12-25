@@ -8,7 +8,7 @@ function App() {
   <>
     <Header />
     <div> 
-      <h1>Harinash</h1>
+      <h1>Harinash Pro</h1>
     </div>
     <Footer />
   </>
